@@ -3,7 +3,8 @@ const path = require("path");
 
 const filePath = path.resolve(__dirname, "../data/export.json");
 
-let result = "Date,Time,Card,List Before,List After\n";
+// let result = "Date,Time,Card,Type,Description,Elapsed Time\n";
+let result = "";
 
 fs.readFile(filePath, "utf8", (err, data) => {
   if (err) {
@@ -20,7 +21,15 @@ fs.readFile(filePath, "utf8", (err, data) => {
           "es-ES"
         )},${new Date(action.date).toLocaleTimeString("es-ES")},${
           action.data.card.name
-        },${action.data.listBefore.name},${action.data.listAfter.name}\n`;
+        },changeList,From '${action.data.listBefore.name}' To '${
+          action.data.listAfter.name
+        }'\n`;
+      } else if (action.type === "commentCard") {
+        result += `${new Date(action.date).toLocaleDateString(
+          "es-ES"
+        )},${new Date(action.date).toLocaleTimeString("es-ES")},${
+          action.data.card.name
+        },comment,'${action.data.text}'\n`;
       }
     });
     // console.log(result);
