@@ -1,0 +1,18 @@
+Date,Time,Card,Type,Description,Elapsed Time
+20/3/2025,12:25:39,test,changeList,From 'In Progress' To 'Done'
+20/3/2025,12:21:29,test,changeList,From 'On Hold' To 'In Progress'
+20/3/2025,12:21:26,test,createCard
+20/3/2025,12:07:30,ver reportes agile (Retro, daily, planning),changeList,From 'On Hold' To 'Current Sprint'
+20/3/2025,12:07:26,ver seguro del auto,changeList,From 'On Hold' To 'Current Sprint'
+20/3/2025,12:02:42,ver seguro del auto,createCard
+20/3/2025,12:00:08,ver reportes agile (Retro, daily, planning),createCard
+20/3/2025,11:50:09,ver temas de auto,createCard
+20/3/2025,11:50:05,arma vista de mysql para reporte de nova,createCard
+20/3/2025,11:49:40,seguir con bolsas de trabajo de empresas,createCard
+20/3/2025,11:48:29,preguntas shadow,createCard
+20/3/2025,11:48:26,tema gimnasio,createCard
+20/3/2025,11:47:38,ver seguimiento y objetivos de sprint,createCard
+20/3/2025,11:47:23,seguir con repo clean arch base - Documentar?,createCard
+20/3/2025,11:47:08,Hacer clean arch de challenge de meli,createCard
+20/3/2025,11:46:49,/////,createCard
+20/3/2025,11:35:57,test,createCard
