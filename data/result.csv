@@ -1,4 +1,28 @@
 Date,Time,Card,Type,Description,Elapsed Time
+21/3/2025,14:30:52,MYTEST,assignDate,Date assigned to: 21/3/2025 15:00:00
+21/3/2025,14:30:35,MYTEST,createCard
+21/3/2025,14:12:06,Hacer clean arch de challenge de meli,reprogram,From '21/3/2025 15:00:00' To '21/3/2025 16:00:00'
+21/3/2025,11:52:33,test001,reprogram,From '21/3/2025 11:51:00' To '31/12/1969 21:00:00'
+21/3/2025,11:52:29,test001,changeList,From 'On Hold' To 'Done'
+21/3/2025,11:51:56,test001,assignDate,Date assigned to: 21/3/2025 11:51:00
+21/3/2025,11:51:11,test001,createCard
+21/3/2025,11:48:57,ver seguro del auto,reprogram,From '21/3/2025 13:00:00' To '31/12/1969 21:00:00'
+21/3/2025,11:48:55,ver seguro del auto,changeList,From 'Current Sprint' To 'Done'
+21/3/2025,11:48:49,ver seguro del auto,changeList,From 'Done' To 'Current Sprint'
+21/3/2025,11:43:49,ver seguro del auto,changeList,From 'In Progress' To 'Done'
+21/3/2025,11:40:48,ver seguro del auto,changeList,From 'Current Sprint' To 'In Progress'
+21/3/2025,11:32:58,ver seguro del auto,reprogram,From '21/3/2025 12:00:00' To '21/3/2025 13:00:00'
+21/3/2025,11:22:28,ver seguro del auto,assignDate,Date assigned to: 21/3/2025 12:00:00
+21/3/2025,11:08:07,Hacer clean arch de challenge de meli,reprogram,From '21/3/2025 18:00:00' To '21/3/2025 15:00:00'
+21/3/2025,10:59:46,Ver todas las bolsas de trabajo disponibles,createCard
+20/3/2025,21:50:27,Hacer clean arch de challenge de meli,assignDate,Date assigned to: 21/3/2025 18:00:00
+20/3/2025,21:49:02,Hacer clean arch de challenge de meli,changeList,From 'On Hold' To 'Current Sprint'
+20/3/2025,21:48:45,arreglar cuarto,changeList,From 'On Hold' To 'Done'
+20/3/2025,15:52:43,electricidad lavadero,createCard
+20/3/2025,15:52:36,arreglar cuarto,createCard
+20/3/2025,15:52:33,arreglar cortina de cuarto,createCard
+20/3/2025,15:04:27,seguir con repo clean arch base - Documentar?,changeList,From 'In Progress' To 'On Hold'
+20/3/2025,15:04:25,seguir con repo clean arch base - Documentar?,changeList,From 'On Hold' To 'In Progress'
 20/3/2025,12:25:39,test,changeList,From 'In Progress' To 'Done'
 20/3/2025,12:21:29,test,changeList,From 'On Hold' To 'In Progress'
 20/3/2025,12:21:26,test,createCard

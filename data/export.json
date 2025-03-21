@@ -78,7 +78,7 @@
     "cardCounts": false,
     "isTemplate": false,
     "cardAging": "regular",
-    "calendarFeedEnabled": false,
+    "calendarFeedEnabled": true,
     "hiddenPluginBoardButtons": ["607eabc3361c748446d62490"],
     "switcherViews": [
       { "viewType": "Board", "enabled": true },
@@ -191,13 +191,13 @@
     "black_light": ""
   },
   "powerUps": [],
-  "dateLastActivity": "2025-03-20T15:25:38.992Z",
-  "dateLastView": "2025-03-20T15:25:39.060Z",
+  "dateLastActivity": "2025-03-21T17:30:51.962Z",
+  "dateLastView": "2025-03-21T17:30:56.219Z",
   "shortUrl": "https://trello.com/b/h2NdZOz1",
   "idTags": [],
   "datePluginDisable": null,
   "creationMethod": null,
-  "ixUpdate": "129",
+  "ixUpdate": "247",
   "templateGallery": null,
   "enterpriseOwned": false,
   "idBoardSource": "54c93f6f836da7c4865460d2",
@@ -212,6 +212,2271 @@
   "idMemberCreator": "5f0a4383d77df3787dcfb09f",
   "type": null,
   "actions": [
+    {
+      "id": "67dda24c4f6ddb02c77dd6ed",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T18:00:00.000Z",
+          "id": "67dda23be740b3e0ac3c72ae",
+          "name": "MYTEST",
+          "idShort": 19,
+          "shortLink": "edNxpB3n"
+        },
+        "old": { "due": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:30:52.003Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dda24b4f6ddb02c77dd6d0",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "dueReminder": -1,
+          "id": "67dda23be740b3e0ac3c72ae",
+          "name": "MYTEST",
+          "idShort": 19,
+          "shortLink": "edNxpB3n"
+        },
+        "old": { "dueReminder": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:30:51.941Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dda23be740b3e0ac3c72dc",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dda23be740b3e0ac3c72ae",
+          "name": "MYTEST",
+          "idShort": 19,
+          "shortLink": "edNxpB3n"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-03-21T17:30:35.416Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9de67a3b06e755265f10",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T19:00:00.000Z",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "due": "2025-03-21T18:00:00.000Z" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": { "id": "573350d3547308c1bd2c9dd3" },
+      "type": "updateCard",
+      "date": "2025-03-21T17:12:06.338Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9dbcf7c354ccdc3c4917",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idLabels": [],
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "idLabels": ["67dc278d61cd8a10dc8ed1e7"] },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:11:24.369Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9dba00a93830d6c314a9",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idLabels": ["67dc278d61cd8a10dc8ed1e7"],
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": {
+          "idLabels": ["67dc278d61cd8a10dc8ed1e3", "67dc278d61cd8a10dc8ed1e7"]
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:11:22.990Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9db8a75e15a5278c47f0",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "checklist": { "id": "67dd9d5c10899735abbef864", "name": "Checklist" }
+      },
+      "appCreator": null,
+      "type": "removeChecklistFromCard",
+      "date": "2025-03-21T17:11:20.031Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9dab6aab7dc4ceda426a",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "desc": "test" },
+        "card": {
+          "desc": "Se debe completar unas cosas",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:11:07.045Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9d7b36b97968d8123666",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idLabels": ["67dc278d61cd8a10dc8ed1e3", "67dc278d61cd8a10dc8ed1e7"],
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "idLabels": ["67dc278d61cd8a10dc8ed1e3"] },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:10:19.386Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9d5c10899735abbef86e",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "checklist": { "id": "67dd9d5c10899735abbef864", "name": "Checklist" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "addChecklistToCard",
+      "date": "2025-03-21T17:09:48.451Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9d388241eef41267fd15",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": {
+          "cover": {
+            "color": null,
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "dark",
+            "plugin": null
+          }
+        },
+        "card": {
+          "cover": {
+            "color": "yellow",
+            "idAttachment": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light",
+            "plugin": null
+          },
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:09:12.052Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9c0aa73571e6176241cb",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "desc": "" },
+        "card": {
+          "desc": "test",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:04:10.823Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9c044de56bbd5d9ffcb5",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "name": "estHacer clean arch de challenge de meli" },
+        "card": {
+          "name": "Hacer clean arch de challenge de meli",
+          "id": "67dc2a6c9026024510062dd9",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:04:04.067Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9bff550f5759daa12e0d",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "name": "Hacer clean arch de challenge de meli" },
+        "card": {
+          "name": "estHacer clean arch de challenge de meli",
+          "id": "67dc2a6c9026024510062dd9",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T17:03:59.036Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd9adf47d28735cb235e35",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idLabels": ["67dc278d61cd8a10dc8ed1e3"],
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "idLabels": [] },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T16:59:11.242Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7d3141458d3cf71b98f8",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": null,
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "old": { "due": "2025-03-21T14:51:00.000Z" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:52:33.753Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7d2d85c4a04e18f4f006",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "pos": 2048,
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "old": { "pos": 557055 },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:52:29.792Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7d2d85c4a04e18f4efee",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed031",
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed034" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:52:29.745Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7d29fa5cd0bcc0332a4a",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "dueComplete": false },
+        "card": {
+          "dueComplete": true,
+          "dateCompleted": "2025-03-21T14:52:25.724Z",
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:52:25.743Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7d0c845098aa4fa920c3",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T14:51:00.000Z",
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "old": { "due": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:51:56.511Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7ceb6eb7eed22e9a94b7",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "dueReminder": -1,
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "old": { "dueReminder": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:51:23.584Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7cdfbd6bc7c8bdaf808f",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dd7cdfbd6bc7c8bdaf8061",
+          "name": "test001",
+          "idShort": 18,
+          "shortLink": "EsV3IYhd"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-03-21T14:51:11.739Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7c594fb0d9c6c7c537b3",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": null,
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "due": "2025-03-21T16:00:00.000Z" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:48:57.942Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7c577d69105c1e6b07bf",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed031",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed032" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": {
+          "id": "67dc278d61cd8a10dc8ed032",
+          "name": "Current Sprint"
+        },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:48:55.549Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7c54c978e82766fae10e",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "dueComplete": false },
+        "card": {
+          "dueComplete": true,
+          "dateCompleted": "2025-03-21T14:48:52.877Z",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:48:52.896Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7c52a930e409029a47a9",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "dueComplete": true },
+        "card": {
+          "dueComplete": false,
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:48:50.132Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7c51510c14000452936c",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed032",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed031" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" },
+        "listAfter": {
+          "id": "67dc278d61cd8a10dc8ed032",
+          "name": "Current Sprint"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:48:49.083Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7b2506d876201d4dbcad",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "pos": 4096,
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "pos": 16384 },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:43:49.735Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7b2506d876201d4dbc95",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed031",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed033" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": {
+          "id": "67dc278d61cd8a10dc8ed033",
+          "name": "In Progress"
+        },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T14:43:49.678Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7b235807eeffa2d1c513",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "dueComplete": false },
+        "card": {
+          "dueComplete": true,
+          "dateCompleted": "2025-03-21T14:43:47.430Z",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed033", "name": "In Progress" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:43:47.448Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7a70012b17c3cbd23009",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed033",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed032" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": {
+          "id": "67dc278d61cd8a10dc8ed032",
+          "name": "Current Sprint"
+        },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed033", "name": "In Progress" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:40:48.021Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd789a05f97318f399ff2a",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T16:00:00.000Z",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "due": "2025-03-21T15:00:00.000Z" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:32:58.156Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd784fdce0cf3ed5e7ec4a",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "plugin": {
+          "id": "5a1d81359fcdfd9011c0a698",
+          "idOrganizationOwner": "5149a5eff5418e4a5200e5b2",
+          "author": "Cronofy Ltd",
+          "capabilities": [
+            "card-buttons",
+            "card-detail-badges",
+            "board-buttons",
+            "callback",
+            "show-authorization",
+            "authorization-status",
+            "show-settings"
+          ],
+          "capabilitiesOptions": [],
+          "categories": ["automation", "board-utilities"],
+          "iframeConnectorUrl": "https://trello.cronofy.com/power_up",
+          "name": "Cronofy",
+          "privacyUrl": "https://docs.cronofy.com/policies/privacy-notice/",
+          "public": true,
+          "moderatedState": null,
+          "supportEmail": "trello@cronofy.com",
+          "url": "https://trello.cronofy.com/power_up/manifest.json",
+          "tags": [],
+          "claimedDomains": [],
+          "icon": {
+            "url": "https://dfcalg2svzojb.cloudfront.net/assets/cronofy-style/logos/cronofy/cronofy_icon_144-fa100685c615eb96e506d2288d532b4013197bd041b991da90a2ea080cb74173.png"
+          },
+          "listing": {
+            "name": "Cronofy",
+            "locale": "en-US",
+            "description": "Connect your existing calendar to organize your Trello workload and see everything you've committed to.\n\n* See all of the due dates for all of your cards in your calendar.\n* Update due dates without leaving your calendar.\n* Visualise and plan your work effectively based on everything you're doing, not just what's in Trello.\n\n####Seamless syncing\n\n![Cronofy Power-Up In Action](https://dfcalg2svzojb.cloudfront.net/assets/trelloanim3-58cf36eaeddc194d24a969a04fa0e47b71bdc8fabe710c64437f2315492b72f8.gif)",
+            "overview": "Real-time calendar sync between Trello and your calendar"
+          },
+          "isCompliantWithPrivacyStandards": true,
+          "usageBrackets": { "boards": 50000 }
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "enablePlugin",
+      "date": "2025-03-21T14:31:43.703Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd762471dbe3360bc2477b",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T15:00:00.000Z",
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "due": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:22:28.705Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd762471dbe3360bc2476c",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "dueReminder": -1,
+          "id": "67dc2e128005794fc4f8a1af",
+          "name": "ver seguro del auto",
+          "idShort": 12,
+          "shortLink": "hzJ8QumJ"
+        },
+        "old": { "dueReminder": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:22:28.652Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd72c744087a9f78fc2f28",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T18:00:00.000Z",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "due": "2025-03-21T21:00:00.000Z" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:08:07.720Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd72c744087a9f78fc2f19",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "dueReminder": -1,
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "dueReminder": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:08:07.678Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd72c744087a9f78fc2f09",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "start": null,
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "start": "2025-03-21T12:00:00.000Z" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-21T14:08:07.646Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd7110537402cc1f371a58",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "board": {
+          "prefs": { "calendarFeedEnabled": true },
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "old": { "prefs": { "calendarFeedEnabled": false } }
+      },
+      "appCreator": null,
+      "type": "updateBoard",
+      "date": "2025-03-21T14:00:48.659Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dd70d261ca90c312e7c9cb",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dd70d261ca90c312e7c99e",
+          "name": "Ver todas las bolsas de trabajo disponibles",
+          "idShort": 17,
+          "shortLink": "25kGkjVf"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-03-21T13:59:46.191Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb7d3bd49ff9c0828bf16",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "due": "2025-03-21T21:00:00.000Z",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "due": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": { "id": "4f2e03c573c9e4eb241b1e1b" },
+      "type": "updateCard",
+      "date": "2025-03-21T00:50:27.861Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb7a4204d78880a45d9d0",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "start": "2025-03-21T12:00:00.000Z",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "start": null },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": { "id": "4f2e03c573c9e4eb241b1e1b" },
+      "type": "updateCard",
+      "date": "2025-03-21T00:49:40.857Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb77ed1404dfb5ee79c3a",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "pos": 507903,
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "pos": 360447 },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed032", "name": "Current Sprint" }
+      },
+      "appCreator": { "id": "4f2e03c573c9e4eb241b1e1b" },
+      "type": "updateCard",
+      "date": "2025-03-21T00:49:02.790Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb77ed1404dfb5ee79c26",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed032",
+          "id": "67dc2a6c9026024510062dd9",
+          "name": "Hacer clean arch de challenge de meli",
+          "idShort": 3,
+          "shortLink": "EdNnXHu6"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed034" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "listAfter": {
+          "id": "67dc278d61cd8a10dc8ed032",
+          "name": "Current Sprint"
+        }
+      },
+      "appCreator": { "id": "4f2e03c573c9e4eb241b1e1b" },
+      "type": "updateCard",
+      "date": "2025-03-21T00:49:02.749Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb76dd128182c42f35e7f",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "pos": 8192,
+          "id": "67dc63f489b88a658aba3fbe",
+          "name": "arreglar cuarto",
+          "idShort": 15,
+          "shortLink": "Qd1YBzIw"
+        },
+        "old": { "pos": 507903 },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T00:48:45.060Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb76dd128182c42f35e67",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed031",
+          "id": "67dc63f489b88a658aba3fbe",
+          "name": "arreglar cuarto",
+          "idShort": 15,
+          "shortLink": "Qd1YBzIw"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed034" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed031", "name": "Done" }
+      },
+      "appCreator": {
+        "id": "56ff07afbc287582d36e19ac",
+        "name": "Automation",
+        "icon": {
+          "url": "https://app.butlerfortrello.com/assets/icon-butler-bot.png"
+        }
+      },
+      "type": "updateCard",
+      "date": "2025-03-21T00:48:45.012Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dcb769c7c2b6b68e05568e",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "old": { "dueComplete": false },
+        "card": {
+          "dueComplete": true,
+          "dateCompleted": "2025-03-21T00:48:41.335Z",
+          "id": "67dc63f489b88a658aba3fbe",
+          "name": "arreglar cuarto",
+          "idShort": 15,
+          "shortLink": "Qd1YBzIw"
+        },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": { "id": "4f2e03c573c9e4eb241b1e1b" },
+      "type": "updateCard",
+      "date": "2025-03-21T00:48:41.376Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc63fbebde2205ae3a206b",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dc63fbebde2205ae3a203e",
+          "name": "electricidad lavadero",
+          "idShort": 16,
+          "shortLink": "PpIdZQKG"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-03-20T18:52:43.919Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc63f489b88a658aba3feb",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dc63f489b88a658aba3fbe",
+          "name": "arreglar cuarto",
+          "idShort": 15,
+          "shortLink": "Qd1YBzIw"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-03-20T18:52:36.221Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc63f13dfc6dfb6c84aea4",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "id": "67dc63f13dfc6dfb6c84ae77",
+          "name": "arreglar cortina de cuarto",
+          "idShort": 14,
+          "shortLink": "XWvZeL61"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-03-20T18:52:33.590Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc58ab5b2dae8582bca119",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "pos": 376831,
+          "id": "67dc2a7b3c90f2363e79c089",
+          "name": "seguir con repo clean arch base - Documentar?",
+          "idShort": 4,
+          "shortLink": "PCgqLTEw"
+        },
+        "old": { "pos": 16384 },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-20T18:04:27.816Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc58ab5b2dae8582bca0fe",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed034",
+          "id": "67dc2a7b3c90f2363e79c089",
+          "name": "seguir con repo clean arch base - Documentar?",
+          "idShort": 4,
+          "shortLink": "PCgqLTEw"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed033" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": {
+          "id": "67dc278d61cd8a10dc8ed033",
+          "name": "In Progress"
+        },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-20T18:04:27.759Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc58a900a06ae4276633c2",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "pos": 16384,
+          "id": "67dc2a7b3c90f2363e79c089",
+          "name": "seguir con repo clean arch base - Documentar?",
+          "idShort": 4,
+          "shortLink": "PCgqLTEw"
+        },
+        "old": { "pos": 376831 },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "list": { "id": "67dc278d61cd8a10dc8ed033", "name": "In Progress" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-20T18:04:25.094Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
+    {
+      "id": "67dc58a900a06ae4276633a5",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "data": {
+        "card": {
+          "idList": "67dc278d61cd8a10dc8ed033",
+          "id": "67dc2a7b3c90f2363e79c089",
+          "name": "seguir con repo clean arch base - Documentar?",
+          "idShort": 4,
+          "shortLink": "PCgqLTEw"
+        },
+        "old": { "idList": "67dc278d61cd8a10dc8ed034" },
+        "board": {
+          "id": "67dc278d61cd8a10dc8ed03e",
+          "name": "Agile Board | Trello",
+          "shortLink": "h2NdZOz1"
+        },
+        "listBefore": { "id": "67dc278d61cd8a10dc8ed034", "name": "On Hold" },
+        "listAfter": { "id": "67dc278d61cd8a10dc8ed033", "name": "In Progress" }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-20T18:04:25.027Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5f0a4383d77df3787dcfb09f",
+        "activityBlocked": false,
+        "avatarHash": "46f436317b77b77b1c1de67211540d2e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5f0a4383d77df3787dcfb09f/46f436317b77b77b1c1de67211540d2e",
+        "fullName": "Juan Garcia",
+        "idMemberReferrer": null,
+        "initials": "JG",
+        "nonPublic": {
+          "fullName": "Juan Garcia",
+          "initials": "JG",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "juangarcia587"
+      }
+    },
     {
       "id": "67dc3373576f83b7f9d3a9e0",
       "idMemberCreator": "5f0a4383d77df3787dcfb09f",
@@ -2896,6 +5161,279 @@
   ],
   "cards": [
     {
+      "id": "67dd7cdfbd6bc7c8bdaf8061",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-21T14:52:33.731Z",
+      "dateCompleted": "2025-03-21T14:52:25.724Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": null,
+      "dueReminder": -1,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346ykvsru357cpmbg4h+23in8174r4@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed031",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 18,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "test001",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dd7cdfbd6bc7c8bdaf8061",
+      "pinned": false,
+      "pos": 2048,
+      "shortLink": "EsV3IYhd",
+      "shortUrl": "https://trello.com/c/EsV3IYhd",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/EsV3IYhd/18-test001",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dc2e128005794fc4f8a1af",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-21T14:48:57.922Z",
+      "dateCompleted": "2025-03-21T14:48:52.877Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": null,
+      "dueReminder": -1,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346rff6mfmovhx83pv3+1nju6pt9j4@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed031",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 12,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "ver seguro del auto",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc2e128005794fc4f8a1af",
+      "pinned": false,
+      "pos": 4096,
+      "shortLink": "hzJ8QumJ",
+      "shortUrl": "https://trello.com/c/hzJ8QumJ",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/hzJ8QumJ/12-ver-seguro-del-auto",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dc63f489b88a658aba3fbe",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": true,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": true,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-21T00:48:45.042Z",
+      "dateCompleted": "2025-03-21T00:48:41.335Z",
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": null,
+      "dueReminder": null,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346skuvgw300graj6wu+2lxbqu83up@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed031",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 15,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "arreglar cuarto",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc63f489b88a658aba3fbe",
+      "pinned": false,
+      "pos": 8192,
+      "shortLink": "Qd1YBzIw",
+      "shortUrl": "https://trello.com/c/Qd1YBzIw",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Qd1YBzIw/15-arreglar-cuarto",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
       "id": "67dc3276440b3326d9219ab6",
       "address": null,
       "badges": {
@@ -3546,97 +6084,6 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/hCaqMxXW/25-lead-gen-mandrill-stats",
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null,
-      "attachments": [],
-      "pluginData": [],
-      "customFieldItems": []
-    },
-    {
-      "id": "67dc2e128005794fc4f8a1af",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": null,
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2025-03-20T15:07:27.005Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": { "emoji": {} },
-      "due": null,
-      "dueReminder": null,
-      "email": "juangarcia587+2uns6p8koh28zi4px9b+346rff6mfmovhx83pv3+1nju6pt9j4@boards.trello.com",
-      "externalSource": null,
-      "idBoard": "67dc278d61cd8a10dc8ed03e",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67dc278d61cd8a10dc8ed032",
-      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
-      "idMembers": [],
-      "idMembersVoted": [],
-      "idOrganization": "60d58b954d4c154120e4758e",
-      "idShort": 12,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
-        },
-        "checklists": {
-          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
-        },
-        "stickers": {
-          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "ver seguro del auto",
-      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc2e128005794fc4f8a1af",
-      "pinned": false,
-      "pos": 16384,
-      "shortLink": "hzJ8QumJ",
-      "shortUrl": "https://trello.com/c/hzJ8QumJ",
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/hzJ8QumJ/12-ver-seguro-del-auto",
       "cover": {
         "idAttachment": null,
         "color": null,
@@ -4437,6 +6884,97 @@
         "idUploadedBackground": null,
         "size": "normal",
         "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dc2a6c9026024510062dd9",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": "2025-03-21T19:00:00.000Z",
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-21T17:12:06.311Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "Se debe completar unas cosas",
+      "descData": { "emoji": {} },
+      "due": "2025-03-21T19:00:00.000Z",
+      "dueReminder": -1,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346rcm6rfia3f5yfbh5+2831vsffdp@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed032",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": true,
+      "name": "Hacer clean arch de challenge de meli",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc2a6c9026024510062dd9",
+      "pinned": false,
+      "pos": 507903,
+      "shortLink": "EdNnXHu6",
+      "shortUrl": "https://trello.com/c/EdNnXHu6",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/EdNnXHu6/3-hacer-clean-arch-de-challenge-de-meli",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "light",
         "idPlugin": null
       },
       "isTemplate": false,
@@ -5353,97 +7891,6 @@
       "customFieldItems": []
     },
     {
-      "id": "67dc2a6c9026024510062dd9",
-      "address": null,
-      "badges": {
-        "attachments": 0,
-        "fogbugz": "",
-        "checkItems": 0,
-        "checkItemsChecked": 0,
-        "checkItemsEarliestDue": null,
-        "comments": 0,
-        "description": false,
-        "due": null,
-        "dueComplete": false,
-        "lastUpdatedByAi": false,
-        "start": null,
-        "externalSource": null,
-        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
-        "location": false,
-        "votes": 0,
-        "maliciousAttachments": 0,
-        "viewingMemberVoted": false,
-        "subscribed": false
-      },
-      "checkItemStates": [],
-      "closed": false,
-      "coordinates": null,
-      "creationMethod": null,
-      "creationMethodError": null,
-      "creationMethodLoadingStartedAt": null,
-      "dueComplete": false,
-      "dateClosed": null,
-      "dateLastActivity": "2025-03-20T14:47:08.236Z",
-      "dateCompleted": null,
-      "dateViewedByCreator": null,
-      "desc": "",
-      "descData": { "emoji": {} },
-      "due": null,
-      "dueReminder": null,
-      "email": "juangarcia587+2uns6p8koh28zi4px9b+346rcm6rfia3f5yfbh5+2831vsffdp@boards.trello.com",
-      "externalSource": null,
-      "idBoard": "67dc278d61cd8a10dc8ed03e",
-      "idChecklists": [],
-      "idLabels": [],
-      "idList": "67dc278d61cd8a10dc8ed034",
-      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
-      "idMembers": [],
-      "idMembersVoted": [],
-      "idOrganization": "60d58b954d4c154120e4758e",
-      "idShort": 3,
-      "idAttachmentCover": null,
-      "labels": [],
-      "limits": {
-        "attachments": {
-          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
-        },
-        "checklists": {
-          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
-        },
-        "stickers": {
-          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
-        }
-      },
-      "locationName": null,
-      "manualCoverAttachment": false,
-      "name": "Hacer clean arch de challenge de meli",
-      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc2a6c9026024510062dd9",
-      "pinned": false,
-      "pos": 360447,
-      "shortLink": "EdNnXHu6",
-      "shortUrl": "https://trello.com/c/EdNnXHu6",
-      "sourceEmail": null,
-      "staticMapUrl": null,
-      "start": null,
-      "subscribed": false,
-      "url": "https://trello.com/c/EdNnXHu6/3-hacer-clean-arch-de-challenge-de-meli",
-      "cover": {
-        "idAttachment": null,
-        "color": null,
-        "idUploadedBackground": null,
-        "size": "normal",
-        "brightness": "dark",
-        "idPlugin": null
-      },
-      "isTemplate": false,
-      "cardRole": null,
-      "mirrorSourceId": null,
-      "mirrorSourceNodeId": null,
-      "attachments": [],
-      "pluginData": [],
-      "customFieldItems": []
-    },
-    {
       "id": "67dc2a7b3c90f2363e79c089",
       "address": null,
       "badges": {
@@ -5474,7 +7921,7 @@
       "creationMethodLoadingStartedAt": null,
       "dueComplete": false,
       "dateClosed": null,
-      "dateLastActivity": "2025-03-20T14:47:23.750Z",
+      "dateLastActivity": "2025-03-20T18:04:27.797Z",
       "dateCompleted": null,
       "dateViewedByCreator": null,
       "desc": "",
@@ -6064,6 +8511,370 @@
       "start": null,
       "subscribed": false,
       "url": "https://trello.com/c/5QPcRhzK/10-ver-temas-de-auto",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dc63f13dfc6dfb6c84ae77",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-20T18:52:33.568Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": null,
+      "dueReminder": null,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346skuimzagu7g49svr+2okout0l4a@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed034",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 14,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "arreglar cortina de cuarto",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc63f13dfc6dfb6c84ae77",
+      "pinned": false,
+      "pos": 491519,
+      "shortLink": "XWvZeL61",
+      "shortUrl": "https://trello.com/c/XWvZeL61",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/XWvZeL61/14-arreglar-cortina-de-cuarto",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dc63fbebde2205ae3a203e",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-20T18:52:43.900Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": null,
+      "dueReminder": null,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346skvo7o55xgdfl8am+1zbfm8mk64@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed034",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 16,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "electricidad lavadero",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dc63fbebde2205ae3a203e",
+      "pinned": false,
+      "pos": 524287,
+      "shortLink": "PpIdZQKG",
+      "shortUrl": "https://trello.com/c/PpIdZQKG",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/PpIdZQKG/16-electricidad-lavadero",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dd70d261ca90c312e7c99e",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-21T13:59:46.168Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": null,
+      "dueReminder": null,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346ybm5bt0w8ic5w2hq+0o51kxbazy@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed034",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 17,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Ver todas las bolsas de trabajo disponibles",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dd70d261ca90c312e7c99e",
+      "pinned": false,
+      "pos": 540671,
+      "shortLink": "25kGkjVf",
+      "shortUrl": "https://trello.com/c/25kGkjVf",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/25kGkjVf/17-ver-todas-las-bolsas-de-trabajo-disponibles",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "mirrorSourceId": null,
+      "mirrorSourceNodeId": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "67dda23be740b3e0ac3c72ae",
+      "address": null,
+      "badges": {
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": false,
+        "due": "2025-03-21T18:00:00.000Z",
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": { "trello": { "board": 0, "card": 0 } },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "creationMethodError": null,
+      "creationMethodLoadingStartedAt": null,
+      "dueComplete": false,
+      "dateClosed": null,
+      "dateLastActivity": "2025-03-21T17:30:51.962Z",
+      "dateCompleted": null,
+      "dateViewedByCreator": null,
+      "desc": "",
+      "descData": { "emoji": {} },
+      "due": "2025-03-21T18:00:00.000Z",
+      "dueReminder": -1,
+      "email": "juangarcia587+2uns6p8koh28zi4px9b+346zdm2ilgksyruzc8e+11utk3ppx4@boards.trello.com",
+      "externalSource": null,
+      "idBoard": "67dc278d61cd8a10dc8ed03e",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "67dc278d61cd8a10dc8ed034",
+      "idMemberCreator": "5f0a4383d77df3787dcfb09f",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "60d58b954d4c154120e4758e",
+      "idShort": 19,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": { "status": "ok", "disableAt": 1000, "warnAt": 800 }
+        },
+        "checklists": {
+          "perCard": { "status": "ok", "disableAt": 500, "warnAt": 400 }
+        },
+        "stickers": {
+          "perCard": { "status": "ok", "disableAt": 70, "warnAt": 56 }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "MYTEST",
+      "nodeId": "ari:cloud:trello::card/workspace/60d58b954d4c154120e4758e/67dda23be740b3e0ac3c72ae",
+      "pinned": false,
+      "pos": 557055,
+      "shortLink": "edNxpB3n",
+      "shortUrl": "https://trello.com/c/edNxpB3n",
+      "sourceEmail": null,
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/edNxpB3n/19-mytest",
       "cover": {
         "idAttachment": null,
         "color": null,
