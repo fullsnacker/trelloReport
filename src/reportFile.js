@@ -3,7 +3,7 @@ const getLast30DaysActions = require("./utils/getLast30DaysActions");
 const getDataFromActions = require("./utils/getDataFromActions");
 const writeToFile = require("./utils/writeToFile");
 
-const initialDate = new Date("2025-03-24 00:00:00");
+const initialDate = new Date("2025-03-26 00:00:00");
 // const initialDate = new Date("2025-01-01 00:00:00");
 
 const reportFile = (filePath) => {
